@@ -4,7 +4,7 @@
 
 A simple dictionary app created with React where,
 
-Users can do thefollowing :
+Users can do the following :
 - search for words using the input field.
 - play the audio pronunciation for a word
 - switch between different fonts: serif, sans serif, and monospace.
