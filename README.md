@@ -1,36 +1,20 @@
-# Directionary APP
+# Dictionary app ( A challenge by frontend-mentor)
 
 ## Description
 
-This is a simple dictionary app created with [React](https://reactjs.org/) and [Vite](https://vitejs.dev/).
+A simple dictionary app created with React where,
 
-## The challenge
+Users can do thefollowing :
+- search for words using the input field.
+- play the audio pronunciation for a word
+- switch between different fonts: serif, sans serif, and monospace.
 
-Users should be able to:
+Also the app:
+- displays the Free Dictionary API's response for the searched word.
+- switches between light and dark themes.
 
--Search for words using the input field ✅
 
--See the Free Dictionary API's response for the searched word ✅
-
--See a form validation message when trying to submit a blank form ✅
-
--Play the audio file for a word when it's available ✅
-
--Switch between serif, sans serif, and monospace fonts ✅
-
--Switch between light and dark themes ✅
-
--View the optimal layout for the interface depending on their device's screen size ✅
-
--See hover and focus states for all interactive elements on the page ✅
-
--Bonus: Have the correct color scheme chosen for them based on their computer preferences. Hint: Research prefers-color-scheme in CSS. ✅
-
-### API used in the project
+### API used 
 
 https://api.dictionaryapi.dev/api/v2/entries/en/(Word)  
 
-### Color used in the project
-
-The color gray is: #838383,
-The color purple is: #A445ED
